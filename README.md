@@ -6,23 +6,23 @@ ________________________________________________________________________________
 ### Features
 The script provides the following analysis options, accessible via an interactive command-line menu:
 
- Age and Hours Analysis: Visualizes the average hours spent per day listening to music by different age groups (Pie Chart).
+##### Age and Hours Analysis: Visualizes the average hours spent per day listening to music by different age groups (Pie Chart).
 
- Favorite Genre Analysis: Shows the distribution of favorite music genres among the surveyed population (Bar Chart).
+##### Favorite Genre Analysis: Shows the distribution of favorite music genres among the surveyed population (Bar Chart).
 
- Most Used App (Streaming Service): Displays the most preferred primary streaming services (Bar Chart).
+##### Most Used App (Streaming Service): Displays the most preferred primary streaming services (Bar Chart).
 
- Music Preference While Working: Illustrates the preference for listening to music while working (Pie Chart).
+##### Music Preference While Working: Illustrates the preference for listening to music while working (Pie Chart).
 
- Anxiety Analysis: Examines the perceived effectiveness of music on anxiety levels (Horizontal Bar Chart).
+##### Anxiety Analysis: Examines the perceived effectiveness of music on anxiety levels (Horizontal Bar Chart).
 
- Depression Analysis: Shows the perceived effectiveness of music on depression levels (Pie Chart).
+##### Depression Analysis: Shows the perceived effectiveness of music on depression levels (Pie Chart).
 
- Insomnia Analysis: Analyzes the perceived effectiveness of music on insomnia (Pie Chart).
+##### Insomnia Analysis: Analyzes the perceived effectiveness of music on insomnia (Pie Chart).
 
- OCD Analysis: Investigates the perceived effectiveness of music on OCD (Bar Chart).
+##### OCD Analysis: Investigates the perceived effectiveness of music on OCD (Bar Chart).
 
- People's Opinion on Effectiveness of Music: Presents the general opinion on the overall effectiveness of music (Pie Chart).
+##### People's Opinion on Effectiveness of Music: Presents the general opinion on the overall effectiveness of music (Pie Chart).
 ____________________________________________________________________________________________________________________________________________________________________
 
 #### Getting Started
