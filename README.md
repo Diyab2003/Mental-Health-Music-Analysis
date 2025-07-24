@@ -1,6 +1,8 @@
 # Mental-Health-Music-Analysis
 
 This repository contains a Python script for analyzing the relationship between music listening habits and various mental health indicators based on survey data. The script generates different data visualizations to provide insights into age-based listening hours, music genre preferences, streaming service usage, and the perceived effects of music on anxiety, depression, insomnia, and OCD.
+Check it out:
+[Music and Mental Health IP PROJECT.docx](https://github.com/user-attachments/files/21416083/Music.and.Mental.Health.IP.PROJECT.docx)
 ___________________________________________________________________________________________________________________________________________________________________
 
 ### Features
@@ -69,8 +71,15 @@ Enter the numbers corresponding to your choices : 1,2,5
 
 #### Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please feel free to:
+
 Fork the repository.
+
 Create your feature branch (git checkout -b feature/AmazingFeature).
+
 Commit your changes (git commit -m 'Add some AmazingFeature').
+
 Push to the branch (git push origin feature/AmazingFeature).
+
 Open a Pull Request.
+
+[Music and Mental Health IP PROJECT.docx](https://github.com/user-attachments/files/21416083/Music.and.Mental.Health.IP.PROJECT.docx)
